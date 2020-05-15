@@ -14,10 +14,88 @@
   background-position: top;
 }
 
-
-h1, h2{
+.head{
+  color: black;
   font-family: "Akronim";
   text-decoration: underline;
-  color: black;
+  font-size: 450%;
 }
 
+#desc{
+  color: black;
+  font-family: "Merienda";
+  font-size: 450%;
+  text-decoration: underline;
+}
+
+.join{
+  color: chocolate;
+  font-family: "Akronim";
+  text-decoration: underline;
+  font-size: 450%;
+}
+
+.hed{
+  color: black;
+  font-family: "Akronim";
+  text-decoration: underline;
+  font-size: 400%;
+}
+
+.taste{
+  color: sienna;
+  font-family: "Akronim";
+  text-decoration: underline;
+  font-size: 500%;
+}
+
+#tasty{
+  color: black;
+  font-family: "Merienda";
+  font-size: 160%;
+  text-decoration: underline;
+}
+
+#come{
+  color: chocolate;
+  font-family: "Merienda";
+  font-size: 170%;
+}
+
+.want{
+  color: white;
+  font-family: "Akronim";
+  font-size: 300%;
+}
+
+#wan{
+  color: black;
+  font-family: "Merienda";
+  font-size: 140%;
+}
+
+.family{
+  color: #fff;
+  font-family: "Akronim";
+  text-decoration: underline;
+  font-size: 350%;
+}
+
+#fam{
+  color: #fff;
+  font-family: "Merienda";
+  font-size: 200%;
+}
+
+.last{
+  color: #fff;
+  font-family: "Akronim";
+  text-decoration: underline;
+  font-size: 350%;
+}
+
+#final{
+  color: #fff;
+  font-family: "Merienda";
+  font-size: 150%;
+}
