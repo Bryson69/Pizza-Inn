@@ -2,8 +2,14 @@
 @import url("https://fonts.googleapis.com/css?family=Cute+Font|Merienda");
 @import url("https://fonts.googleapis.com/css?family=Akronim");
 
-h1, h2{
-  font-family: "Akronim";
-  text-decoration: underline;
-  color: black;
+/* header */
+.carousel-item {
+  height: 100vh;
+  min-height: 350px;
+  background: no-repeat center center scroll;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-position: top;
 }
