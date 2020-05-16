@@ -145,7 +145,11 @@ margin-top: 30px;
   margin-top: 15px;
 }
 
+
 /* features */
+h2{
+  font-family: "Merienda";
+}
 
 .features {
   margin: 4em auto;
@@ -159,3 +163,21 @@ margin-top: 30px;
   margin-bottom: 20px;
   text-transform: uppercase;
 }
+.features img {
+  -webkit-box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.4);
+  -moz-box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.4);
+  box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.4);
+  margin-bottom: 16px;
+}
+
+/* Orders */
+
+
+
+
+
+
+
+
+
+
