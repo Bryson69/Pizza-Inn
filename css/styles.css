@@ -53,7 +53,32 @@
   color: white;
   font-family: "Merienda";
   font-size: 160%;
+}
+
+.sneak{
+  color: black;
+  font-family: "Akronim";
+  font-size: 450%;
   text-decoration: underline;
+}
+
+#peek{
+  color: white;
+  font-family: "Merienda";
+  font-size: 160%;
+}
+
+.enjoy{
+  color: sienna;
+  font-family: "Akronim";
+  font-size: 450%;
+  text-decoration: underline;
+}
+
+#time{
+  color: white;
+  font-family: "Merienda";
+  font-size: 160%;
 }
 
 #come{
@@ -116,4 +141,17 @@ margin-top: 30px;
 
 #my-image{
   margin-top: 15px;
+}
+
+.features {
+  margin: 4em auto;
+  padding: 1em;
+  position: relative;
+}
+.feature-title {
+  color: #333;
+  font-size: 1.3rem;
+  font-weight: 700;
+  margin-bottom: 20px;
+  text-transform: uppercase;
 }
