@@ -180,3 +180,82 @@ h2{
 .bg-dark {
   background-color: #000;
 }
+
+.social-icons-list{
+	width: 100%;
+	height: auto;
+	margin:auto;
+	margin-top: 100px;
+}
+
+.social-icons-box h2{
+	font-family: "Akronim";
+	font-size: 45px;
+	text-align: center;
+  font-weight: bold;
+  color: #fff;
+}
+
+h4{
+  font-family: "Merienda";
+  color: #fff;
+}
+
+.social-icons-list ul{
+	margin:0px;
+	padding: 0px;
+	text-align:center;
+}
+
+.social-icons-list ul li{
+  display: inline-block;
+  width: 80px;
+  height: 80px;
+  text-align: center;
+  border-radius: 100%;
+  margin:0px 10px;
+}
+
+.social-icons-list ul li a{
+	display: block;
+	color: #fff;
+	font-size: 50px;
+}
+.social-icons-list ul li a i{
+	line-height: 10px;
+}
+
+.social-icons-list ul li:nth-child(1){
+	background:#3b5999;
+}
+.social-icons-list ul li:nth-child(2){
+	background:#55acee;
+}
+.social-icons-list ul li:nth-child(3){
+	background:#e4405f;
+}
+.social-icons-list ul li:nth-child(4){
+	background:#cd201f;
+}
+.social-icons-list ul li:nth-child(5){
+	background:#af0606;
+}
+.social-icons-list ul li:hover{
+  border-radius: 0px;
+  transition: 0.5s;
+}
+.social-icons-list ul li:nth-child(1):hover{
+	background:#3b5999;
+}
+.social-icons-list ul li:nth-child(2):hover{
+	background:#55acee;
+}
+.social-icons-list ul li:nth-child(3):hover{
+	background:#e4405f;
+}
+.social-icons-list ul li:nth-child(4):hover{
+	background:#cd201f;
+}
+.social-icons-list ul li:nth-child(5):hover{
+	background:#af0606;
+}
