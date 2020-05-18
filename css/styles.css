@@ -173,6 +173,7 @@ h2{
 /* Orders */
 
 .orders{
+  margin-top: 15px;
   border-top-left-radius: 25px;
   border-bottom-left-radius: 25px;
   border-top-right-radius: 25px;
