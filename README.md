@@ -24,6 +24,9 @@ To fix a bug or enhance an existing module, follow these steps:
 - TerminalCLI(Command Line Interface)
 - Javascript, JSFiddle, Repl.it
 - Debugger for chrome
+
+#### link to live site   https://bryson69.github.io/Pizza-Inn/
+
 ### License
 *MIT License
 
