@@ -36,11 +36,9 @@ $(document).ready(function(){
       }else{
         veggiePrice=0;
         allVeggies="None";
-      }
-    //adds all prices up to total them  
+      } 
     var total = sizePrice + cheesePrice + crustPrice + veggiePrice + meatPrice;  
     
-    //output receipt after hitting submit
     if(!size || !cheese || !crust || !sauce){
       alert('Please complete your order');
     }else{   
@@ -49,25 +47,4 @@ $(document).ready(function(){
       form.reset();//clears answers from input fields when you submit
     }
     };
-    
-      
-      
-    /*  //SIZE RADIO BUTTONS (shortened with jquery above) 
-    if(sizeRadios[0].checked){
-      sizePrice=sizeRadios[0].value;
-      size=sizeRadios[0].id;
-    }
-    if(sizeRadios[1].checked){
-      sizePrice=sizeRadios[1].value;
-      size=sizeRadios[1].id;
-    }
-    if(sizeRadios[2].checked){
-      sizePrice=sizeRadios[2].value;
-      size=sizeRadios[2].id;
-    }
-    if(sizeRadios[3].checked){
-      sizePrice=sizeRadios[3].value;
-      size=sizeRadios[3].id;
-    }
-      */
     });
