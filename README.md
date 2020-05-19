@@ -1,6 +1,6 @@
 # PIZAADRI PIZZA HUB
 #### A web application that lets you order pizza online
-#### By **Author Maratah Njoroge**
+#### By **Author Bryson Mundia**
 ## Description
 - A simple web application that takes the user's birthday and calculates the day of the week they were born depending on their gender output, including an installed version of Git.
 ## Setup/Installation Requirements
